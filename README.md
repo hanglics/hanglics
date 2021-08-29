@@ -6,4 +6,4 @@ I am currently a PhD student at ielab in The University of Queensland, Australia
 
 I am now working on developing different machine learning approaches to improve the effectiveness in conversational search settings, broader research topics include conversational AI, multi-modal system, and natural language understanding (mainly within the conversational scenarios).
 
-Publications are listed in hangli.me along with corresponding github repos.
+Publications are listed in [hangli.me](https://hangli.me) along with corresponding github repos.
