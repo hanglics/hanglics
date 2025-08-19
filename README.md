@@ -8,6 +8,6 @@ I am working at the intersection of Conversational Search, Natural Language Proc
 
 Publications are listed in [hangli.me](https://hangli.me) along with corresponding github repos.
 
-[![Hang Li's github stats](https://github-readme-stats.vercel.app/api?username=hanglics&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Hang Li's Github Stats](https://github-readme-stats.vercel.app/api?username=hanglics&show=prs_merged,prs_merged_percentage&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanglics&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
