@@ -8,7 +8,7 @@ I am working at the intersection of Information Retrieval (IR), Large Language M
 
 Publications are listed in [hangli.me](https://hangli.me) and [Google Scholar](https://scholar.google.com.au/citations?user=LS67b08AAAAJ&hl=en) along with corresponding github repos.
 
-[![Hang Li's Github Stats](https://github-readme-stats.vercel.app/api?username=hanglics&show=prs_merged,prs_merged_percentage&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats) 
+[![Hang Li's Github Stats](https://github-readme-stats.vercel.app/api?username=hanglics&show=prs_merged,prs_merged_percentage&show_icons=true&hide=stars&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanglics&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
