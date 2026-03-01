@@ -7,9 +7,3 @@ I am currently a graduating PhD candidate and PostDoc in [IELab](https://ielab.i
 I am working at the intersection of Information Retrieval (IR), Large Language Models (LLMs), Machine Learning (ML), and Natural Language Processing (NLP), where I investigate how to utilises different feedbacks signals to empower the IR system with LLMs and NLP. My recent work seeks to address the exisiting gaps through different approaches that helps to improve the IR system effectiveness with minimal efficiency cost.
 
 Publications are listed in [hangli.me](https://hangli.me) and [Google Scholar](https://scholar.google.com.au/citations?user=LS67b08AAAAJ&hl=en) along with corresponding github repos.
-
-[![Hang Li's Github Stats](https://github-readme-stats.vercel.app/api?username=hanglics&show=prs_merged,prs_merged_percentage&show_icons=true&hide=stars&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanglics&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
